@@ -1,4 +1,4 @@
-# Steaming Time Variation Analysis (Lime Scaling and Descaling)
+# Steaming Time Variation Analysis (Steam Generator Limescaling and Descaling)
 
 ## 📌 Overview
 The goal of this project is to analyze the descaling frequency of devices based on a predefined steaming threshold.

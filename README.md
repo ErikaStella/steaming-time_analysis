@@ -13,12 +13,12 @@ When a cleaning process is launched on a cooking devices, limescale is being pro
 
 ## 📊 Analysis Performed
 1. Data Sorting based on device serial number
-2. Cummulative distribution calculation
-3. New descaling time beased on previous descaling time and steamingthreshold 
+2. Cummulative distribution calculation and visualization
+3. New descaling time calculation based on previous descaling time and steaming threshold 
 
 ## 📈 Results
 - Descaling was triggered at half of the steaming threshold value for some devices
-- Another proportion started descaling process at the threshold limit
+- Descaling process triggered at the threshold limit on part of the devices
 
 ## 🚀 How to Run
 
@@ -29,7 +29,7 @@ git clone https://github.com/ErikaStella/steaming-time-analysis.git
 pip install -r requirements.txt
 
 3. Open the Jupyter Notebook:
-jupyter notebook steaming time variation analysis.ipynb
+jupyter notebook steaming_time_variation_analysis.ipynb
 
 ## 👤 Author
 [Erika Kamga]
